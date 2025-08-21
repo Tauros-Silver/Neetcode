@@ -2,7 +2,7 @@
 
 **Welcome! This repo contains my journey solving [Neetcode](https://neetcode.io/) problems.  I’m tracking my streak, solutions, and documenting everything I’ve learned.**
 
-![Problems Solved](https://img.shields.io/badge/Solved-1%2F150-brightgreen?style=for-the-badge) ![Streak](https://img.shields.io/badge/Streak-1%20days-orange?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Last%20Updated-20%20Aug%202025-success?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-1%2F150-brightgreen?style=for-the-badge) ![Streak](https://img.shields.io/badge/Streak-1%20days-orange?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Last%20Updated-20%20Aug%202025-success?style=for-the-badge) <br>
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python) ![Language](https://img.shields.io/badge/Language-C-%23A8B9CC?style=for-the-badge&logo=c)
 
 
@@ -18,11 +18,8 @@
 
 ## 📂 Problem Solutions  
 
-<div style="text-align: center;">
-
 ![Easy](https://img.shields.io/badge/Easy-1-green) &emsp; ![Medium](https://img.shields.io/badge/Medium-0-yellow) &emsp; ![Hard](https://img.shields.io/badge/Hard-0-red)
 
-</div>
 
 | # | Problem | Topic | Difficulty | Solution |
 |---|----------|:--------:|:-------------:|:-----------:|
