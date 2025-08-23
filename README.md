@@ -2,7 +2,7 @@
 
 **Welcome! This repo contains my journey solving [Neetcode](https://neetcode.io/) problems.  I’m tracking my streak, solutions, and documenting everything I’ve learned.**
 
-![Problems Solved](https://img.shields.io/badge/Solved-4%2F150-brightgreen?style=for-the-badge) ![Streak](https://img.shields.io/badge/Streak-2%20days-orange?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Last%20Updated-20%20Aug%202025-success?style=for-the-badge) <br>
+![Problems Solved](https://img.shields.io/badge/Solved-4%2F150-brightgreen?style=for-the-badge) ![Streak](https://img.shields.io/badge/Streak-4%20days-orange?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Last%20Updated-23%20Aug%202025-success?style=for-the-badge) <br>
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
 
@@ -11,7 +11,7 @@
 ## 📅 Streak Progress  
 
 - **Started:** 20 Aug 2025  
-- **Current Streak:** 🔥 2 days  
+- **Current Streak:** 🔥 4 days  
 - **Problems Solved:** 4/150  
 
 ---
